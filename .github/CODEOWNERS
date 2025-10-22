@@ -1,1 +1,6 @@
-@SR
+# demo-app: src files owned by sr, docs owned by jr-team
+demo-app/src/ @naikdarshorg/sr
+demo-app/docs/ @naikdarshorg/jr-team
+
+# fallback: everything else owned by sr
+* @naikdarshorg/sr
